@@ -3,7 +3,7 @@
 
 ## Introduction
 This project gives you the opportunity to re-write standard functions, understand them, and learn to use them.
-See more [subject](http://example.com/)
+See more [subject](https://github.com/LavelleVerkarth/libft/blob/main/en.subject.pdf)
 
 ## Build
 
