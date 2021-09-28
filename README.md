@@ -1,7 +1,5 @@
 # libft
-##### This is the first project in "School 21"
-
-## Introduction
+### This is the first project in "School 21"
 This project gives you the opportunity to re-write standard functions, understand them, and learn to use them.
 See more [subject](https://github.com/LavelleVerkarth/libft/blob/main/en.subject.pdf)
 
